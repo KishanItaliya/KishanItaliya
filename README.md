@@ -1,5 +1,5 @@
 - 👋 Hi, My self @KishanItaliya
-- 👀 Hands on experience with React.js and Next.js 
+- 👀 3+ years' hands-on experience with React.js and Next.js 
 - 🌱 Currently focusing on learning the Concepts of MERN Stack
 
 <!---
