@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KishanItaliya
-- 👀 I’m interested in React-JS and React-Native 
-- 🌱 I’m currently learning Some Advanced Concepts of ReactJS and NextJS
+- 👋 Hi, My self @KishanItaliya
+- 👀 Hands on experience with React.js and Next.js 
+- 🌱 Currently focusing on learning the Concepts of MERN Stack
 
 <!---
 KishanItaliya/KishanItaliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
