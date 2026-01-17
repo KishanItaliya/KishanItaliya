@@ -1,5 +1,5 @@
 - 👋 Hi, My self @KishanItaliya
-- 👀 5+ years' hands-on experience with React.js and Next.js 
+- 👀 5+ years hands-on experience with React.js and Next.js 
 - 🌱 Currently focusing on learning the Backend Technology including MERN Stack, Python & AI
 
 <!---
